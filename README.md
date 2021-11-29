@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ankush Thakur
-- Currently in 3rd year cs Chitkara ,punjab.
+-  cse Chitkara ,punjab.
 - 👀 I’m interested in ... full stack development
 - 🌱 I’m currently learning ...  full stack development
 - 💞️ I’m looking to collaborate on ... full Stack projects
